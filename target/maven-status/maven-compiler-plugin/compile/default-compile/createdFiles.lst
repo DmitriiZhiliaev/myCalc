@@ -1,0 +1,6 @@
+myCalc\frame\Calculate.class
+myCalc\frame\LastValueAndActionSaver.class
+myCalc\frame\AddPoint.class
+myCalc\frame\Frame.class
+myCalc\Main.class
+myCalc\frame\PutValue.class
